@@ -1,0 +1,33 @@
+body {
+    background-image: url(office-581131_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+}
+/* the background for
+.bodypage2 {
+    background-image: url(keyboard-886462_1920.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+}
+/* the box with the textbox and text */
+.box {
+    width: 400px;
+    height: auto;
+    background-color: rgba(26, 36, 36, 50%);
+    margin: auto;
+    margin-top: 120px;
+    padding: 5%;
+    border: 10px solid rgba(18, 18, 231, 50%);
+}
+/* change the link color */
+a {
+    color: orange;
+}
+/* add an underline to select text */
+.underline {
+    text-decoration: underline;
+}
